@@ -2,7 +2,8 @@ librosa
 numpy
 pandas
 tqdm
-tensorflow
+tensorflow==2.19.0
+ml_dtypes==0.5.1
 scikit-learn==1.5.2
 streamlit
 yt_dlp
