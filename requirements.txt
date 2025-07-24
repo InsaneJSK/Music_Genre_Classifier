@@ -1,0 +1,9 @@
+librosa
+numpy
+pandas
+tqdm
+tensorflow
+scikit-learn==1.5.2
+streamlit
+yt_dlp
+pydub

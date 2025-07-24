@@ -1,0 +1,4 @@
+data/genres_original/
+venv/
+__pycache__/
+features/
