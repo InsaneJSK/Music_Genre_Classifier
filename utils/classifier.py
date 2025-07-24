@@ -4,9 +4,9 @@ from tensorflow.keras.models import load_model
 from .audio_utils import extract_features
 
 # Load saved components
-model = load_model("models\\genre_classifier_model.keras")  # or 'model.h5'
-pipeline = joblib.load("models\\preprocessing_pipeline.pkl")
-label_encoder = joblib.load("models\\label_encoder.pkl")
+model = load_model("models/genre_classifier_model.keras")  # or 'model.h5'
+pipeline = joblib.load("models/preprocessing_pipeline.pkl")
+label_encoder = joblib.load("models/label_encoder.pkl")
 
 def predict_genre(features: np.ndarray) -> str:
     # Ensure input is 2D
