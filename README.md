@@ -12,7 +12,7 @@ Built with machine learning, audio signal processing, and an intuitive Streamlit
 - **Plays audio clip** directly in the app
 - **Extracts rich audio features** (MFCCs, chroma, tempo, etc.)
 - **Predicts music genre** using a trained ML model
-- Deployed on Streamlit
+- Deployed on [Streamlit](https://music-genre-clf.streamlit.app/)
 
 ---
 
