@@ -41,11 +41,11 @@ Built with machine learning, audio signal processing, and an intuitive Streamlit
 
 ### Audio Upload
 
-![Audio Upload](assets\Audio-upload.png)
+![Audio Upload](assets/Audio-upload.png)
 
 ### Youtube Mode
 
-![Youtube Mode](assets\youtube-mode.png)
+![Youtube Mode](assets/youtube-mode.png)
 
 ---
 
